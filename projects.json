@@ -54,7 +54,6 @@
   "owner": "Userunknown84",
   "repo": "Spam-Detection-System",
   "projectName": "Spam Detection System",
-  "Phone no": 5449,
   "description": "A full-stack application that detects Spam / Smishing / Offensive content using Machine Learning. In this application i made for web as well as app so user can see on both of them if message or email is safe, spam and fishy. Any message or email you check on it gives the result. i trained a model for this functionality.",
   "techStack": [
     "Python",
@@ -62,9 +61,19 @@
     "Reactjs",
     "Nodejs",
     "Expressjs",
-    "React Native"
+    "ReactNative"
   ],
   "adminName": "Aditya Sharma",
-  "linkedIn": "linkedin.com/in/aditya-sharma-340253236"
+  "linkedIn": "https://www.linkedin.com/in/aditya-sharma-340253236/",
+  "mentors": [
+    {
+      "name": "Rushikesh Kusuma",
+      "linkedIn": "https://www.linkedin.com/in/rushikesh-kusuma/"
+    },
+    {
+      "name": "SHASHANKA SHEKHAR NAYAK",
+      "linkedIn": "https://www.linkedin.com/in/shashanka-shekhar-nayak-543a7a258/"
+    }
+  ]
 }
 ]
